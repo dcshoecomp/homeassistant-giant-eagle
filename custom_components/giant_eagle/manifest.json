@@ -1,0 +1,9 @@
+{
+    "domain": "giant_eagle",
+    "name": "Giant Eagle",
+    "documentation": "https://github.com/dcshoecomp/homeassistant-giant-eagle",
+    "dependencies": [],
+    "codeowners": ["@dcshoecomp"],
+    "requirements": ["requests","re"]
+  }
+  
