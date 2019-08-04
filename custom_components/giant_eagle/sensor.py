@@ -8,6 +8,8 @@ import requests
 from lxml import html
 import re
 
+__version_ = '0.0.2'
+
 REQUIREMENTS = ['requests','lxml']
 
 CONF_USERNAME="username"
